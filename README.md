@@ -1,10 +1,10 @@
 ### Hi, I'm Kurt 👋
 
-Biostatistician · R package developer · building with AI
+Biostatistician · R package developer
 
-I'm an MS Biostatistics student at the **University of Washington** (capstone year), with a BS in Biology and Mathematics from Regis University. My work sits where statistical modelling meets ecology: species distribution models, GLMMs, and turning messy field data into reproducible analyses. Lately I'm also building LLM agent workflows that automate everyday processes.
+I'm an MS Biostatistics student at the **University of Washington** (2026), with a BS in Biology and Mathematics from Regis University. My work sits where statistical modelling meets ecology: species distribution models, GLMMs, and turning messy field data into reproducible analyses. Lately, I'm also building LLM agent workflows that automate everyday processes.
 
-[Website](https://kriggithub.github.io/Portfolio_Website/) · [LinkedIn](https://www.linkedin.com/in/kurtriggin/) · [ORCID](https://orcid.org/0009-0004-4700-1251) · [YouTube](https://www.youtube.com/channel/UCiIQgFerfIQ8my1xAd28ZEA) · [Email](mailto:krigbusiness@gmail.com)
+[Website](https://kriggithub.github.io/Portfolio_Website/) · [LinkedIn](https://www.linkedin.com/in/kurtriggin/) · [ORCID](https://orcid.org/0009-0004-4700-1251) · [YouTube](https://www.youtube.com/channel/UCiIQgFerfIQ8my1xAd28ZEA) · [Email](mailto:krigscholar@gmail.com)
 
 ---
 
