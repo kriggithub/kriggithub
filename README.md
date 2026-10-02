@@ -2,8 +2,7 @@
 
 Biostatistician · R package developer
 
-I'm an MS Biostatistics student at the **University of Washington** (2026), with a BS in Biology and Mathematics from Regis University. My work sits where statistical modelling meets ecology: species distribution models, GLMMs, and turning messy field data into reproducible analyses. Lately, I'm also building LLM agent workflows that automate everyday processes.
-
+I'm an MS Biostatistics Capstone student at the **University of Washington** (2026), with a BS in Biology and Mathematics from Regis University. My work sits where statistical modelling meets global health and ecology, turning messy field data into reproducible analyses. 
 [Website](https://kriggithub.github.io/Portfolio_Website/) · [LinkedIn](https://www.linkedin.com/in/kurtriggin/) · [ORCID](https://orcid.org/0009-0004-4700-1251) · [YouTube](https://www.youtube.com/channel/UCiIQgFerfIQ8my1xAd28ZEA) · [Email](mailto:krigscholar@gmail.com)
 
 ---
@@ -21,7 +20,3 @@ I'm an MS Biostatistics student at the **University of Washington** (2026), with
 - **[Behavioral forest edge effects](https://github.com/kriggithub/Behavioral_Forest_Edge)**: a mathematical approach to detecting edge effects on mantled howler monkey behavior in Costa Rica
 - **[Emberizoid hindlimbs](https://github.com/kriggithub/Emberizoid_Hindlimbs)**: ecomorphology and phylogenetic signal in the hindlimbs of North American sparrows and blackbirds
 - **[Catostomid JSDMs](https://github.com/kriggithub/Catostomidae_JDSM_Exploration)**: joint species distribution models for North American suckers
-
-#### 🛠️ Tools I use
-
-R (tidyverse, glmmTMB, Hmsc, segmented, testthat, devtools) · Python · Git · Quarto/R Markdown · Claude API & agent workflows
