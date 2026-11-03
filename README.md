@@ -1,8 +1,10 @@
 ### Hi, I'm Kurt 👋
 
-Biostatistician · R package developer
+Biostatistician · AI Builder
 
-I'm an MS Biostatistics Capstone student at the **University of Washington** (2026), with a BS in Biology and Mathematics from Regis University. My work sits where statistical modelling meets global health and ecology, turning messy field data into reproducible analyses. 
+I'm an MS Biostatistics Capstone student at the **University of Washington** (2028), with a BS in Biology and Mathematics from Regis University. My research has focused on modelling and analyzing biological observational data with mixed, linear, and Bayesian models. In my free time, I like to build  projects with AI and document the process on my [YouTube Channel](https://www.youtube.com/@KurtRiggin). 
+
+Check out my other links and feel free to reach out!
 [Website](https://kriggithub.github.io/Portfolio_Website/) · [LinkedIn](https://www.linkedin.com/in/kurtriggin/) · [ORCID](https://orcid.org/0009-0004-4700-1251) · [YouTube](https://www.youtube.com/channel/UCiIQgFerfIQ8my1xAd28ZEA) · [Email](mailto:krigscholar@gmail.com)
 
 ---
@@ -20,3 +22,7 @@ I'm an MS Biostatistics Capstone student at the **University of Washington** (20
 - **[Behavioral forest edge effects](https://github.com/kriggithub/Behavioral_Forest_Edge)**: a mathematical approach to detecting edge effects on mantled howler monkey behavior in Costa Rica
 - **[Emberizoid hindlimbs](https://github.com/kriggithub/Emberizoid_Hindlimbs)**: ecomorphology and phylogenetic signal in the hindlimbs of North American sparrows and blackbirds
 - **[Catostomid JSDMs](https://github.com/kriggithub/Catostomidae_JDSM_Exploration)**: joint species distribution models for North American suckers
+
+---
+
+#### Personal Projects
